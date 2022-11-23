@@ -1,0 +1,196 @@
+.bouton{
+	border-radius: 30px;
+	border-color: transparent;
+	max-width: 315px;
+	background-color: transparent;
+}
+.produit{
+	max-width: 310px;
+	height: auto;
+	border-radius: 30px;
+}
+.hauteurs{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 16px;
+	background-color: black;
+	border-radius: 30px;
+	height: 20px;
+	font-family: chiller;
+	font-weight: bold;
+	color: skyblue;
+}
+.haut{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 16px;
+	border-radius: 30px;
+	background-color: skyblue;
+	height: 20px;
+	font-family: bradley hand itc;
+	font-weight: bold;
+	color: black;
+	min-width: 100px;
+}
+.hauteur{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 20px;
+	background-color: whitesmoke;
+	border-radius: 30px;
+	height: 20px;
+	font-family: bradley hand itc;
+	font-weight: bolder;
+	color: black;
+	max-width: 270px;
+}
+.bio{
+	font-size: 16px;
+	max-width: 315px;
+	font-family: kristen itc;
+	color: white;
+}
+.profil{
+	width: 50px;
+	height: auto;
+}
+body{
+	background: url("fond.jpg");
+	background-size: 100%;
+	max-width: 2500px;
+	position: static;
+}
+td .bio{
+	text-align: left;
+}
+.logo{
+	height: 50px;
+	width: auto;
+	border-radius: 50%;
+}
+.service{
+	background-color: #00a8f3;
+	border-radius: 30px;
+	max-height: 60px;
+	max-width: 200px;
+	color: white;
+}
+.nom{
+	margin-left: 5px;
+	margin-right: 5px;
+	text-align: center;
+	font-size: 20px;
+	font-family: kristen itc;
+	font-weight: bold;
+	color: white;
+}
+.fresh{
+	border-radius: 30px;
+	margin-left: 30px;
+	background-color: transparent;
+	border-color: transparent;
+	font-family: segoe print;
+	font-weight: bold;
+	color: white;
+}
+
+.mode{
+	border-radius: 30px;
+	margin-left: 30px;
+	background-color: transparent;
+	border-color: skyblue;
+	font-family: segoe print;
+	font-weight: bold;
+	color: white;
+}
+
+.horloge{
+	width: 250px;
+	height: 40px;
+	border-radius: 30px;
+	background-color: #00a8f3;
+	border-color: skyblue;
+}
+.time{
+	text-align: center;
+	font-family: kristen itc;
+	font-weight: bold;
+	border-radius: 30px;
+	border-color: grey;
+	background-color: black;
+	color: white;
+}
+.titre{
+	font-family: bradley hand itc;
+	font-weight: bold;
+	color: white;
+}
+.subtile{
+	font-family: segoe print;
+	color: white;
+}
+.seller{
+	border-radius: 30px;
+	border-color: skyblue;
+	font-size: 14px;
+	background-color: transparent;
+	font-family: kristen itc;
+	color: white;
+}
+.vendeur{
+	height: 45px;
+	width: auto;
+	border-radius: 30px;
+}
+.alerte{
+	font-family: segoe print;
+	background-color: #00a8f3;
+	color: black;
+	border-radius: 30px;
+	border-color: skyblue;
+	font-size: 12px;
+}
+.pages button{
+	border-radius: 30px;
+	border-color: #00a8f3;
+	height: 30px;
+	color: white;
+	background-color: transparent;
+}
+.pages button span{
+	margin-bottom: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: kristen itc;
+}
+.message{
+	color: white;
+}
+.une{
+	height: 55px;
+	background-color: #00a8f3;
+	border-radius: 30px;
+	border-color: transparent;
+	font-family: bradley hand itc;
+	font-weight: bold;
+	font-size: 18px;
+}
+.references button{
+	background-color: transparent;
+	border-radius: 30px;
+	border-color: skyblue;
+}
+.references button img{
+	height: 45px;
+	width: auto;
+}
+.cachet{
+	height: 100px;
+	width: auto;
+	margin-bottom: -25px;
+}
+.contacts{
+	height: 45px;
+	width: auto;
+	margin-left: 8px;
+}
